@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RestApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="base_url">https://api.vk.com/method/</string>
+    <string name="auth_url">https://oauth.vk.com/</string>
+    <string name="apiV">5.80</string>
+
+    <string name="error">Произошла ошибка</string>
+    <string name="attachments">Документ</string>
+    <string name="search">Поиск</string>
+    <string name="logout">Выйти</string>
+</resources>
